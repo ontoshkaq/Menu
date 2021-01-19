@@ -55,9 +55,9 @@
             android:text="Load Game" />
 
         <Button
-            android:id="@+id/b_options"
+            android:id="@+id/b_settings"
             style="@style/Menu_ButtonStyle"
-            android:text="Options" />
+            android:text="Settings" />
 
         <Button
             android:id="@+id/b_exit"

@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
         <activity android:name=".LoadGame"></activity>
-        <activity android:name=".Options" />
+        <activity android:name=".GameSettings" />
         <activity android:name=".NewGame" />
         <activity android:name=".Continue" />
         <activity android:name=".MainMenu">
