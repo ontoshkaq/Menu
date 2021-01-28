@@ -37,7 +37,7 @@ class MainMenu : AppCompatActivity() {
 
     //Settings
             val game_settings = findViewById<Button>(R.id.b_settings)
-            new_game.setOnClickListener{
+            game_settings.setOnClickListener{
                 val perehod = Intent(this, GameSettings::class.java )
                 startActivity(perehod)
 
